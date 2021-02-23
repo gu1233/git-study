@@ -1,3 +1,4 @@
 # Git & GitHub 
 
-CLI 연습하기
+CLI 연습하기 
+저장소 연동하기
